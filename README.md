@@ -1,1 +1,1 @@
-here is the project of Software Development Project-200 . In this project i created the Game hive .
+The file is the Super Market System. The main language is java. I also Use the MySql in the System. The system is a web based software. If you read this  mean you want the file , you can use that but all the right goes to me . Thank you for your attention. All the neccessary file in the zip. all you need is to download and unzip then you can use the file to do want need to be done.
